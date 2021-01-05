@@ -9,28 +9,7 @@ public class GitHubCheckPractice {
 		System.out.println("Pushing new code");
 		
 		
-		System.out.println("Big changes done");
-		
-		System.out.println("Big changes done");
-		
-		System.out.println("Big changes done");
-		
-		System.out.println("Big changes done");
-		
-		System.out.println("Big changes done");
-		
-		System.out.println("Big changes done");
-		
-		
-		
-		System.out.println("again changed");
-		
-				System.out.println("again changed");
-				System.out.println("again changed");
-				System.out.println("again changed");
-				System.out.println("again changed");
-				System.out.println("again changed");
-		
+		System.out.println("changes removed today");
 		
 		
 		
