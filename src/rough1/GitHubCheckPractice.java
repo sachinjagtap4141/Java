@@ -14,6 +14,16 @@ public class GitHubCheckPractice {
 		
 		
 		
+		System.out.println("changes removed today");
+		
+		
+		
+		
+		
+		
+		System.out.println("changes removed today");
+		
+		
 		
 		
 	}
